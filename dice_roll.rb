@@ -2,6 +2,7 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-def roll(one, two)
-  Random.rand(one..two)
+def roll(num1, num2)
+  rand(num1..num2)
+  rand
 end
