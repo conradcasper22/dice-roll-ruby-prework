@@ -4,5 +4,4 @@
 
 def roll(num1, num2)
   rand num1..num2
-  rand
 end
